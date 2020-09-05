@@ -1,0 +1,23 @@
+h1 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: black;
+    border: 1px dotted red;
+    color: ;
+
+}
+
+#myBox {
+    border: 2px solid yellow;
+    margin-left: auto;
+    margin-right: auto;
+    height: 15cm;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+    
+}
+div {
+    width: 16.63%;
+    height: auto;    
+}
